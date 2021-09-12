@@ -1,0 +1,65 @@
+{
+    "GridSearchB": {
+        "checkpoints": [
+            {
+                "steps": 2499990,
+                "file_path": "results\\GridSearch_01\\GridSearchB\\GridSearchB-2499990.onnx",
+                "reward": -21.460001627604168,
+                "creation_time": 1631240290.7335062,
+                "auxillary_file_paths": [
+                    "results\\GridSearch_01\\GridSearchB\\GridSearchB-2499990.pt"
+                ]
+            },
+            {
+                "steps": 2999978,
+                "file_path": "results\\GridSearch_01\\GridSearchB\\GridSearchB-2999978.onnx",
+                "reward": -18.416002559661866,
+                "creation_time": 1631244856.8241148,
+                "auxillary_file_paths": [
+                    "results\\GridSearch_01\\GridSearchB\\GridSearchB-2999978.pt"
+                ]
+            },
+            {
+                "steps": 3499993,
+                "file_path": "results\\GridSearch_01\\GridSearchB\\GridSearchB-3499993.onnx",
+                "reward": -11.300001939137777,
+                "creation_time": 1631249414.145085,
+                "auxillary_file_paths": [
+                    "results\\GridSearch_01\\GridSearchB\\GridSearchB-3499993.pt"
+                ]
+            },
+            {
+                "steps": 3999987,
+                "file_path": "results\\GridSearch_01\\GridSearchB\\GridSearchB-3999987.onnx",
+                "reward": -22.77000363667806,
+                "creation_time": 1631253962.60115,
+                "auxillary_file_paths": [
+                    "results\\GridSearch_01\\GridSearchB\\GridSearchB-3999987.pt"
+                ]
+            },
+            {
+                "steps": 4198419,
+                "file_path": "results\\GridSearch_01\\GridSearchB\\GridSearchB-4198419.onnx",
+                "reward": null,
+                "creation_time": 1631255773.009338,
+                "auxillary_file_paths": [
+                    "results\\GridSearch_01\\GridSearchB\\GridSearchB-4198419.pt"
+                ]
+            }
+        ],
+        "final_checkpoint": {
+            "steps": 4198419,
+            "file_path": "results\\GridSearch_01\\GridSearchB.onnx",
+            "reward": null,
+            "creation_time": 1631255773.009338,
+            "auxillary_file_paths": [
+                "results\\GridSearch_01\\GridSearchB\\GridSearchB-4198419.pt"
+            ]
+        }
+    },
+    "metadata": {
+        "stats_format_version": "0.3.0",
+        "mlagents_version": "0.27.0",
+        "torch_version": "1.7.1+cu110"
+    }
+}

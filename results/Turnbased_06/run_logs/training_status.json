@@ -1,0 +1,65 @@
+{
+    "MyGridB": {
+        "checkpoints": [
+            {
+                "steps": 852538,
+                "file_path": "results\\TurnBased_06\\MyGridB\\MyGridB-852538.onnx",
+                "reward": -10.0,
+                "creation_time": 1631144157.9610488,
+                "auxillary_file_paths": [
+                    "results\\TurnBased_06\\MyGridB\\MyGridB-852538.pt"
+                ]
+            },
+            {
+                "steps": 999990,
+                "file_path": "results\\TurnBased_06\\MyGridB\\MyGridB-999990.onnx",
+                "reward": null,
+                "creation_time": 1631146794.528211,
+                "auxillary_file_paths": [
+                    "results\\TurnBased_06\\MyGridB\\MyGridB-999990.pt"
+                ]
+            },
+            {
+                "steps": 1499982,
+                "file_path": "results\\TurnBased_06\\MyGridB\\MyGridB-1499982.onnx",
+                "reward": -3.119999885559082,
+                "creation_time": 1631155854.2338293,
+                "auxillary_file_paths": [
+                    "results\\TurnBased_06\\MyGridB\\MyGridB-1499982.pt"
+                ]
+            },
+            {
+                "steps": 1999960,
+                "file_path": "results\\TurnBased_06\\MyGridB\\MyGridB-1999960.onnx",
+                "reward": -20.299999237060547,
+                "creation_time": 1631166148.682448,
+                "auxillary_file_paths": [
+                    "results\\TurnBased_06\\MyGridB\\MyGridB-1999960.pt"
+                ]
+            },
+            {
+                "steps": 2445290,
+                "file_path": "results\\TurnBased_06\\MyGridB\\MyGridB-2445290.onnx",
+                "reward": -0.4249999523162842,
+                "creation_time": 1631176712.8527873,
+                "auxillary_file_paths": [
+                    "results\\TurnBased_06\\MyGridB\\MyGridB-2445290.pt"
+                ]
+            }
+        ],
+        "final_checkpoint": {
+            "steps": 2445290,
+            "file_path": "results\\TurnBased_06\\MyGridB.onnx",
+            "reward": -0.4249999523162842,
+            "creation_time": 1631176712.8527873,
+            "auxillary_file_paths": [
+                "results\\TurnBased_06\\MyGridB\\MyGridB-2445290.pt"
+            ]
+        }
+    },
+    "metadata": {
+        "stats_format_version": "0.3.0",
+        "mlagents_version": "0.27.0",
+        "torch_version": "1.7.1+cu110"
+    }
+}

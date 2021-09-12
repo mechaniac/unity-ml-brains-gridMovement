@@ -1,0 +1,29 @@
+{
+    "MyGridB": {
+        "checkpoints": [
+            {
+                "steps": 500058,
+                "file_path": "results\\TurnBased_08\\MyGridB\\MyGridB-500058.onnx",
+                "reward": null,
+                "creation_time": 1631136271.07647,
+                "auxillary_file_paths": [
+                    "results\\TurnBased_08\\MyGridB\\MyGridB-500058.pt"
+                ]
+            }
+        ],
+        "final_checkpoint": {
+            "steps": 500058,
+            "file_path": "results\\TurnBased_08\\MyGridB.onnx",
+            "reward": null,
+            "creation_time": 1631136271.07647,
+            "auxillary_file_paths": [
+                "results\\TurnBased_08\\MyGridB\\MyGridB-500058.pt"
+            ]
+        }
+    },
+    "metadata": {
+        "stats_format_version": "0.3.0",
+        "mlagents_version": "0.27.0",
+        "torch_version": "1.7.1+cu110"
+    }
+}

@@ -1,0 +1,172 @@
+{
+    "name": "TurnBasedIA",
+    "maps": [
+        {
+            "name": "TurnBPlayer",
+            "id": "7d910bbb-5f04-421b-b253-d7b68f23f8c1",
+            "actions": [
+                {
+                    "name": "One",
+                    "type": "Button",
+                    "id": "b4a11874-5f26-4bab-9edc-7c7545ad68a3",
+                    "expectedControlType": "Button",
+                    "processors": "",
+                    "interactions": ""
+                },
+                {
+                    "name": "Two",
+                    "type": "Button",
+                    "id": "e1789954-6a88-4ab2-bc16-b724b34b35fc",
+                    "expectedControlType": "Button",
+                    "processors": "",
+                    "interactions": ""
+                },
+                {
+                    "name": "Three",
+                    "type": "Button",
+                    "id": "e283f024-95e7-44d9-8fdd-7efb1f348817",
+                    "expectedControlType": "Button",
+                    "processors": "",
+                    "interactions": ""
+                },
+                {
+                    "name": "Four",
+                    "type": "Button",
+                    "id": "0bb163ac-0c44-480f-9db0-b7867881117f",
+                    "expectedControlType": "Button",
+                    "processors": "",
+                    "interactions": ""
+                },
+                {
+                    "name": "Five",
+                    "type": "Button",
+                    "id": "743075e9-217f-4c16-b01c-d828f51d2c09",
+                    "expectedControlType": "Button",
+                    "processors": "",
+                    "interactions": ""
+                },
+                {
+                    "name": "Zero",
+                    "type": "Button",
+                    "id": "13483cdb-63bf-4035-8e80-d456cb87aa51",
+                    "expectedControlType": "Button",
+                    "processors": "",
+                    "interactions": ""
+                },
+                {
+                    "name": "A",
+                    "type": "Button",
+                    "id": "5ff915b4-8687-4e12-b026-3a8a21594d85",
+                    "expectedControlType": "Button",
+                    "processors": "",
+                    "interactions": ""
+                },
+                {
+                    "name": "D",
+                    "type": "Button",
+                    "id": "37f2700d-dfc6-445d-b7ef-10406f3d5087",
+                    "expectedControlType": "Button",
+                    "processors": "",
+                    "interactions": ""
+                }
+            ],
+            "bindings": [
+                {
+                    "name": "",
+                    "id": "f553cbf5-1aa2-48d0-8c2a-9a00377e8d30",
+                    "path": "<Keyboard>/1",
+                    "interactions": "",
+                    "processors": "",
+                    "groups": "my control scheme",
+                    "action": "One",
+                    "isComposite": false,
+                    "isPartOfComposite": false
+                },
+                {
+                    "name": "",
+                    "id": "3ae6f4c3-979b-4181-b29b-7d0b377364df",
+                    "path": "<Keyboard>/2",
+                    "interactions": "",
+                    "processors": "",
+                    "groups": "my control scheme",
+                    "action": "Two",
+                    "isComposite": false,
+                    "isPartOfComposite": false
+                },
+                {
+                    "name": "",
+                    "id": "15de7b99-90c6-42c0-9e52-ed40749248c1",
+                    "path": "<Keyboard>/3",
+                    "interactions": "",
+                    "processors": "",
+                    "groups": "my control scheme",
+                    "action": "Three",
+                    "isComposite": false,
+                    "isPartOfComposite": false
+                },
+                {
+                    "name": "",
+                    "id": "3dfe38b0-85ce-4809-a00c-c263e441402b",
+                    "path": "<Keyboard>/4",
+                    "interactions": "",
+                    "processors": "",
+                    "groups": "my control scheme",
+                    "action": "Four",
+                    "isComposite": false,
+                    "isPartOfComposite": false
+                },
+                {
+                    "name": "",
+                    "id": "d94c941e-68da-40b6-a48b-8ecf3434b3c9",
+                    "path": "<Keyboard>/5",
+                    "interactions": "",
+                    "processors": "",
+                    "groups": "my control scheme",
+                    "action": "Five",
+                    "isComposite": false,
+                    "isPartOfComposite": false
+                },
+                {
+                    "name": "",
+                    "id": "39b5d000-0567-47dc-9960-af1761101801",
+                    "path": "<Keyboard>/0",
+                    "interactions": "",
+                    "processors": "",
+                    "groups": "my control scheme",
+                    "action": "Zero",
+                    "isComposite": false,
+                    "isPartOfComposite": false
+                },
+                {
+                    "name": "",
+                    "id": "92aea3f3-8f4f-4ee8-9f13-86593e3f8a21",
+                    "path": "<Keyboard>/a",
+                    "interactions": "",
+                    "processors": "",
+                    "groups": "my control scheme",
+                    "action": "A",
+                    "isComposite": false,
+                    "isPartOfComposite": false
+                },
+                {
+                    "name": "",
+                    "id": "cd3127fd-1c6e-4817-8453-16ec763263b8",
+                    "path": "<Keyboard>/d",
+                    "interactions": "",
+                    "processors": "",
+                    "groups": "my control scheme",
+                    "action": "D",
+                    "isComposite": false,
+                    "isPartOfComposite": false
+                }
+            ]
+        }
+    ],
+    "controlSchemes": [
+        {
+            "name": "my control scheme",
+            "bindingGroup": "my control scheme",
+            "devices": []
+        }
+    ]
+}

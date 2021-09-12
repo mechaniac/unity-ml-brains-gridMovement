@@ -1,0 +1,65 @@
+{
+    "My Behavior": {
+        "checkpoints": [
+            {
+                "steps": 14208,
+                "file_path": "results\\TurnBased_01\\My Behavior\\My Behavior-14208.onnx",
+                "reward": null,
+                "creation_time": 1631025389.2670867,
+                "auxillary_file_paths": [
+                    "results\\TurnBased_01\\My Behavior\\My Behavior-14208.pt"
+                ]
+            },
+            {
+                "steps": 28416,
+                "file_path": "results\\TurnBased_01\\My Behavior\\My Behavior-28416.onnx",
+                "reward": null,
+                "creation_time": 1631025765.256628,
+                "auxillary_file_paths": [
+                    "results\\TurnBased_01\\My Behavior\\My Behavior-28416.pt"
+                ]
+            },
+            {
+                "steps": 37888,
+                "file_path": "results\\TurnBased_01\\My Behavior\\My Behavior-37888.onnx",
+                "reward": null,
+                "creation_time": 1631026816.908401,
+                "auxillary_file_paths": [
+                    "results\\TurnBased_01\\My Behavior\\My Behavior-37888.pt"
+                ]
+            },
+            {
+                "steps": 54656,
+                "file_path": "results\\TurnBased_01\\My Behavior\\My Behavior-54656.onnx",
+                "reward": null,
+                "creation_time": 1631027890.483606,
+                "auxillary_file_paths": [
+                    "results\\TurnBased_01\\My Behavior\\My Behavior-54656.pt"
+                ]
+            },
+            {
+                "steps": 60928,
+                "file_path": "results\\TurnBased_01\\My Behavior\\My Behavior-60928.onnx",
+                "reward": null,
+                "creation_time": 1631028535.6587677,
+                "auxillary_file_paths": [
+                    "results\\TurnBased_01\\My Behavior\\My Behavior-60928.pt"
+                ]
+            }
+        ],
+        "final_checkpoint": {
+            "steps": 60928,
+            "file_path": "results\\TurnBased_01\\My Behavior.onnx",
+            "reward": null,
+            "creation_time": 1631028535.6587677,
+            "auxillary_file_paths": [
+                "results\\TurnBased_01\\My Behavior\\My Behavior-60928.pt"
+            ]
+        }
+    },
+    "metadata": {
+        "stats_format_version": "0.3.0",
+        "mlagents_version": "0.27.0",
+        "torch_version": "1.7.1+cu110"
+    }
+}
